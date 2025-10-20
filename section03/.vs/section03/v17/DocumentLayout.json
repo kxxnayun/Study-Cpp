@@ -1,21 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4772AEE-D251-4E14-A94A-CBD2F19E6310}|ex3-3\\ex3-3.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-3\\ex3-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1B32C3B5-E3F9-45AB-8E6B-1509B8083E07}|Account\\Account.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Account\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B32C3B5-E3F9-45AB-8E6B-1509B8083E07}|Account\\Account.vcxproj|solutionrelative:Account\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA92623-1D8B-4ED6-AC60-EDA3CBA6B1A2}|Tower\\Tower.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Tower\\Tower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA92623-1D8B-4ED6-AC60-EDA3CBA6B1A2}|Tower\\Tower.vcxproj|solutionrelative:Tower\\Tower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE88333-3827-409D-B9E1-97431E19BD0F}|ex3-8\\ex3-8.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-8\\ex3-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FE88333-3827-409D-B9E1-97431E19BD0F}|ex3-8\\ex3-8.vcxproj|solutionrelative:ex3-8\\ex3-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C125A5-7934-4EAD-889E-E3E5DD013547}|ex3-7\\ex3-7.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-7\\ex3-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79C125A5-7934-4EAD-889E-E3E5DD013547}|ex3-7\\ex3-7.vcxproj|solutionrelative:ex3-7\\ex3-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAE0108-6241-400D-843D-DC928CD98491}|ex3-6\\ex3-6.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-6\\ex3-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FAE0108-6241-400D-843D-DC928CD98491}|ex3-6\\ex3-6.vcxproj|solutionrelative:ex3-6\\ex3-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82B4CB8-084E-4CF1-808D-86358B71FFBB}|ex3-5\\ex3-5.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-5\\ex3-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C82B4CB8-084E-4CF1-808D-86358B71FFBB}|ex3-5\\ex3-5.vcxproj|solutionrelative:ex3-5\\ex3-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4772AEE-D251-4E14-A94A-CBD2F19E6310}|ex3-3\\ex3-3.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-3\\ex3-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C4772AEE-D251-4E14-A94A-CBD2F19E6310}|ex3-3\\ex3-3.vcxproj|solutionrelative:ex3-3\\ex3-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAAACBAD-1908-4406-889D-44AA4257D51C}|ex3-4\\ex3-4.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-4\\ex3-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DAAACBAD-1908-4406-889D-44AA4257D51C}|ex3-4\\ex3-4.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-4\\ex3-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DAAACBAD-1908-4406-889D-44AA4257D51C}|ex3-4\\ex3-4.vcxproj|solutionrelative:ex3-4\\ex3-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ECC6162-4042-4393-9F5E-B53EBCD2027E}|ex3-1\\ex3-1.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-1\\ex3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8ECC6162-4042-4393-9F5E-B53EBCD2027E}|ex3-1\\ex3-1.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-1\\ex3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ECC6162-4042-4393-9F5E-B53EBCD2027E}|ex3-1\\ex3-1.vcxproj|solutionrelative:ex3-1\\ex3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A29DAAA-C882-41EF-BF93-1B2195329764}|ex3-2\\ex3-2.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-2\\ex3-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6A29DAAA-C882-41EF-BF93-1B2195329764}|ex3-2\\ex3-2.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-2\\ex3-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6A29DAAA-C882-41EF-BF93-1B2195329764}|ex3-2\\ex3-2.vcxproj|solutionrelative:ex3-2\\ex3-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -26,59 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ex3-4.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-4\\ex3-4.cpp",
-              "RelativeDocumentMoniker": "ex3-4\\ex3-4.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-4\\ex3-4.cpp",
-              "RelativeToolTip": "ex3-4\\ex3-4.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Account.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Account\\Account.cpp",
+              "RelativeDocumentMoniker": "Account\\Account.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Account\\Account.cpp",
+              "RelativeToolTip": "Account\\Account.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-19T13:17:36.131Z",
+              "WhenOpened": "2025-10-20T07:47:28.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Tower.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Tower\\Tower.cpp",
+              "RelativeDocumentMoniker": "Tower\\Tower.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Tower\\Tower.cpp",
+              "RelativeToolTip": "Tower\\Tower.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T07:32:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ex3-8.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-8\\ex3-8.cpp",
+              "RelativeDocumentMoniker": "ex3-8\\ex3-8.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-8\\ex3-8.cpp",
+              "RelativeToolTip": "ex3-8\\ex3-8.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T07:21:38.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex3-7.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-7\\ex3-7.cpp",
+              "RelativeDocumentMoniker": "ex3-7\\ex3-7.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-7\\ex3-7.cpp",
+              "RelativeToolTip": "ex3-7\\ex3-7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T07:14:28.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ex3-6.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-6\\ex3-6.cpp",
+              "RelativeDocumentMoniker": "ex3-6\\ex3-6.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-6\\ex3-6.cpp",
+              "RelativeToolTip": "ex3-6\\ex3-6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T07:00:50.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex3-5.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-5\\ex3-5.cpp",
+              "RelativeDocumentMoniker": "ex3-5\\ex3-5.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-5\\ex3-5.cpp",
+              "RelativeToolTip": "ex3-5\\ex3-5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T06:53:12.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ex3-4.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-4\\ex3-4.cpp",
+              "RelativeDocumentMoniker": "ex3-4\\ex3-4.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-4\\ex3-4.cpp",
+              "RelativeToolTip": "ex3-4\\ex3-4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T13:17:36.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ex3-3.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-3\\ex3-3.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-3\\ex3-3.cpp",
               "RelativeDocumentMoniker": "ex3-3\\ex3-3.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-3\\ex3-3.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-3\\ex3-3.cpp",
               "RelativeToolTip": "ex3-3\\ex3-3.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-19T13:04:10.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ex3-2.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-2\\ex3-2.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-2\\ex3-2.cpp",
               "RelativeDocumentMoniker": "ex3-2\\ex3-2.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-2\\ex3-2.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-2\\ex3-2.cpp",
               "RelativeToolTip": "ex3-2\\ex3-2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-19T12:39:04.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T12:39:04.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ex3-1.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-1\\ex3-1.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-1\\ex3-1.cpp",
               "RelativeDocumentMoniker": "ex3-1\\ex3-1.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section03\\ex3-1\\ex3-1.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-1\\ex3-1.cpp",
               "RelativeToolTip": "ex3-1\\ex3-1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-19T12:26:46.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T12:26:46.617Z"
             }
           ]
         }
