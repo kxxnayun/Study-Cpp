@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52550590-D8E6-48D6-887A-55614B5F6967}|Student\\Student.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Student\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52550590-D8E6-48D6-887A-55614B5F6967}|Student\\Student.vcxproj|solutionrelative:Student\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70B6BF18-B1BC-4D01-83EB-F2607E8A0C73}|Oval\\Oval.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Oval\\Oval.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{70B6BF18-B1BC-4D01-83EB-F2607E8A0C73}|Oval\\Oval.vcxproj|solutionrelative:Oval\\Oval.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -67,32 +63,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Student.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Student\\Student.cpp",
-              "RelativeDocumentMoniker": "Student\\Student.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Student\\Student.cpp",
-              "RelativeToolTip": "Student\\Student.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-22T06:16:30.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Oval.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Oval\\Oval.cpp",
               "RelativeDocumentMoniker": "Oval\\Oval.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Oval\\Oval.cpp",
               "RelativeToolTip": "Oval\\Oval.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-22T00:09:32.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Random.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Random\\Random.cpp",
               "RelativeDocumentMoniker": "Random\\Random.cpp",
@@ -104,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Account.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Account\\Account.cpp",
               "RelativeDocumentMoniker": "Account\\Account.cpp",
@@ -116,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ex3-8.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-8\\ex3-8.cpp",
               "RelativeDocumentMoniker": "ex3-8\\ex3-8.cpp",
@@ -128,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ex3-7.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-7\\ex3-7.cpp",
               "RelativeDocumentMoniker": "ex3-7\\ex3-7.cpp",
@@ -140,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ex3-6.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-6\\ex3-6.cpp",
               "RelativeDocumentMoniker": "ex3-6\\ex3-6.cpp",
@@ -152,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "ex3-5.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-5\\ex3-5.cpp",
               "RelativeDocumentMoniker": "ex3-5\\ex3-5.cpp",
@@ -164,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ex3-4.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-4\\ex3-4.cpp",
               "RelativeDocumentMoniker": "ex3-4\\ex3-4.cpp",
@@ -176,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Tower.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\Tower\\Tower.cpp",
               "RelativeDocumentMoniker": "Tower\\Tower.cpp",
@@ -188,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ex3-3.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-3\\ex3-3.cpp",
               "RelativeDocumentMoniker": "ex3-3\\ex3-3.cpp",
@@ -200,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "ex3-2.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-2\\ex3-2.cpp",
               "RelativeDocumentMoniker": "ex3-2\\ex3-2.cpp",
@@ -212,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ex3-1.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section03\\ex3-1\\ex3-1.cpp",
               "RelativeDocumentMoniker": "ex3-1\\ex3-1.cpp",

@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65D09992-B277-41F8-8905-3AADC5F6B448}|ch\\ch.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ch\\rcp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{65D09992-B277-41F8-8905-3AADC5F6B448}|ch\\ch.vcxproj|solutionrelative:ch\\rcp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0942286-1395-476F-BBF5-A724FDC14945}|ex2-7\\ex2-7.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-7\\ex2-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C0942286-1395-476F-BBF5-A724FDC14945}|ex2-7\\ex2-7.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-7\\ex2-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C0942286-1395-476F-BBF5-A724FDC14945}|ex2-7\\ex2-7.vcxproj|solutionrelative:ex2-7\\ex2-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDCEE954-5A59-42A1-B768-AEB475FBF5BC}|ex2-6\\ex2-6.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-6\\ex2-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EDCEE954-5A59-42A1-B768-AEB475FBF5BC}|ex2-6\\ex2-6.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-6\\ex2-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EDCEE954-5A59-42A1-B768-AEB475FBF5BC}|ex2-6\\ex2-6.vcxproj|solutionrelative:ex2-6\\ex2-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3175D2DB-90D6-4045-9FEF-496FCEECC626}|ex2-5\\ex2-5.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-5\\ex2-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3175D2DB-90D6-4045-9FEF-496FCEECC626}|ex2-5\\ex2-5.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-5\\ex2-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3175D2DB-90D6-4045-9FEF-496FCEECC626}|ex2-5\\ex2-5.vcxproj|solutionrelative:ex2-5\\ex2-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B7DFD9-9BFF-456E-9E2C-DECC17C658C8}|ex2-4\\ex2-4.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-4\\ex2-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A6B7DFD9-9BFF-456E-9E2C-DECC17C658C8}|ex2-4\\ex2-4.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-4\\ex2-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6B7DFD9-9BFF-456E-9E2C-DECC17C658C8}|ex2-4\\ex2-4.vcxproj|solutionrelative:ex2-4\\ex2-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D95F90-B660-41CF-8FAC-8FF444223D27}|ex2-3\\ex2-3.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-3\\ex2-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A7D95F90-B660-41CF-8FAC-8FF444223D27}|ex2-3\\ex2-3.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-3\\ex2-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A7D95F90-B660-41CF-8FAC-8FF444223D27}|ex2-3\\ex2-3.vcxproj|solutionrelative:ex2-3\\ex2-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDD6F196-474A-48B0-A65F-2B8E3FB5DFCA}|ex2-2\\ex2-2.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-2\\ex2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EDD6F196-474A-48B0-A65F-2B8E3FB5DFCA}|ex2-2\\ex2-2.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-2\\ex2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EDD6F196-474A-48B0-A65F-2B8E3FB5DFCA}|ex2-2\\ex2-2.vcxproj|solutionrelative:ex2-2\\ex2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76518F18-DEDB-4153-AA32-CBAAF13C5E4C}|ex2-1\\ex2-1.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-1\\ex2-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{76518F18-DEDB-4153-AA32-CBAAF13C5E4C}|ex2-1\\ex2-1.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-1\\ex2-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{76518F18-DEDB-4153-AA32-CBAAF13C5E4C}|ex2-1\\ex2-1.vcxproj|solutionrelative:ex2-1\\ex2-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D09992-B277-41F8-8905-3AADC5F6B448}|ch\\ch.vcxproj|C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ch\\rcp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65D09992-B277-41F8-8905-3AADC5F6B448}|ch\\ch.vcxproj|solutionrelative:ch\\rcp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,41 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "rcp.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ch\\rcp.cpp",
-              "RelativeDocumentMoniker": "ch\\rcp.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ch\\rcp.cpp",
-              "RelativeToolTip": "ch\\rcp.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-19T12:03:36.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ex2-7.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-7\\ex2-7.cpp",
-              "RelativeDocumentMoniker": "ex2-7\\ex2-7.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-7\\ex2-7.cpp",
-              "RelativeToolTip": "ex2-7\\ex2-7.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-19T11:52:47.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ex2-6.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-6\\ex2-6.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-6\\ex2-6.cpp",
               "RelativeDocumentMoniker": "ex2-6\\ex2-6.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-6\\ex2-6.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-6\\ex2-6.cpp",
               "RelativeToolTip": "ex2-6\\ex2-6.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -85,11 +59,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ex2-5.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-5\\ex2-5.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-5\\ex2-5.cpp",
               "RelativeDocumentMoniker": "ex2-5\\ex2-5.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-5\\ex2-5.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-5\\ex2-5.cpp",
               "RelativeToolTip": "ex2-5\\ex2-5.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -98,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ex2-4.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-4\\ex2-4.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-4\\ex2-4.cpp",
               "RelativeDocumentMoniker": "ex2-4\\ex2-4.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-4\\ex2-4.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-4\\ex2-4.cpp",
               "RelativeToolTip": "ex2-4\\ex2-4.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -111,11 +85,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ex2-3.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-3\\ex2-3.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-3\\ex2-3.cpp",
               "RelativeDocumentMoniker": "ex2-3\\ex2-3.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-3\\ex2-3.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-3\\ex2-3.cpp",
               "RelativeToolTip": "ex2-3\\ex2-3.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -124,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ex2-2.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-2\\ex2-2.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-2\\ex2-2.cpp",
               "RelativeDocumentMoniker": "ex2-2\\ex2-2.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-2\\ex2-2.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-2\\ex2-2.cpp",
               "RelativeToolTip": "ex2-2\\ex2-2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -137,15 +111,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ex2-1.cpp",
-              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-1\\ex2-1.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-1\\ex2-1.cpp",
               "RelativeDocumentMoniker": "ex2-1\\ex2-1.cpp",
-              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section02\\ex2-1\\ex2-1.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-1\\ex2-1.cpp",
               "RelativeToolTip": "ex2-1\\ex2-1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-19T11:12:11.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex2-7.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-7\\ex2-7.cpp",
+              "RelativeDocumentMoniker": "ex2-7\\ex2-7.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ex2-7\\ex2-7.cpp",
+              "RelativeToolTip": "ex2-7\\ex2-7.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T11:52:47.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rcp.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ch\\rcp.cpp",
+              "RelativeDocumentMoniker": "ch\\rcp.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cpp\\section02\\ch\\rcp.cpp",
+              "RelativeToolTip": "ch\\rcp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T12:03:36.676Z",
               "EditorCaption": ""
             }
           ]
