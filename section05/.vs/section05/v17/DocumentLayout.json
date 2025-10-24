@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{856EFA6D-B310-4316-9660-3517074A446E}|ex5-9\\ex5-9.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\ex5-9\\ex5-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{856EFA6D-B310-4316-9660-3517074A446E}|ex5-9\\ex5-9.vcxproj|solutionrelative:ex5-9\\ex5-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ADA38337-63F4-4EDE-9960-A33EAFBF0F08}|Dept\\Dept.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Dept\\Dept.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADA38337-63F4-4EDE-9960-A33EAFBF0F08}|Dept\\Dept.vcxproj|solutionrelative:Dept\\Dept.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC4D2A4-F029-44E0-ADCD-A4A162112CF6}|ex5-5\\ex5-5.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\ex5-5\\ex5-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0AC4D2A4-F029-44E0-ADCD-A4A162112CF6}|ex5-5\\ex5-5.vcxproj|solutionrelative:ex5-5\\ex5-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8BCDC878-2149-43C2-869B-1271619BF730}|Stack1\\Stack1.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Stack1\\Stack1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BCDC878-2149-43C2-869B-1271619BF730}|Stack1\\Stack1.vcxproj|solutionrelative:Stack1\\Stack1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93543F02-D9D6-4E59-86C6-EC0E8F6B57F1}|Stack\\Stack.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93543F02-D9D6-4E59-86C6-EC0E8F6B57F1}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856EFA6D-B310-4316-9660-3517074A446E}|ex5-9\\ex5-9.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\ex5-9\\ex5-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{856EFA6D-B310-4316-9660-3517074A446E}|ex5-9\\ex5-9.vcxproj|solutionrelative:ex5-9\\ex5-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338F0120-989C-4BD7-A1A3-210B447E021C}|ex5-4\\ex5-4.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\ex5-4\\ex5-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{338F0120-989C-4BD7-A1A3-210B447E021C}|ex5-4\\ex5-4.vcxproj|solutionrelative:ex5-4\\ex5-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D61C5FA8-397B-44D5-A125-40ED5FB1DAD5}|Circle\\Circle.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Circle\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D61C5FA8-397B-44D5-A125-40ED5FB1DAD5}|Circle\\Circle.vcxproj|solutionrelative:Circle\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FD23402-6370-434E-92B7-07912B5DB251}|ex5-1\\ex5-1.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\ex5-1\\ex5-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5FD23402-6370-434E-92B7-07912B5DB251}|ex5-1\\ex5-1.vcxproj|solutionrelative:ex5-1\\ex5-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC4D2A4-F029-44E0-ADCD-A4A162112CF6}|ex5-5\\ex5-5.vcxproj|C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\ex5-5\\ex5-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AC4D2A4-F029-44E0-ADCD-A4A162112CF6}|ex5-5\\ex5-5.vcxproj|solutionrelative:ex5-5\\ex5-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dept.cpp",
+              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Dept\\Dept.cpp",
+              "RelativeDocumentMoniker": "Dept\\Dept.cpp",
+              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Dept\\Dept.cpp",
+              "RelativeToolTip": "Dept\\Dept.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T04:30:37.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack1.cpp",
+              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Stack1\\Stack1.cpp",
+              "RelativeDocumentMoniker": "Stack1\\Stack1.cpp",
+              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Stack1\\Stack1.cpp",
+              "RelativeToolTip": "Stack1\\Stack1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T04:28:53.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Stack\\Stack.cpp",
+              "RelativeDocumentMoniker": "Stack\\Stack.cpp",
+              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Stack\\Stack.cpp",
+              "RelativeToolTip": "Stack\\Stack.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T04:27:26.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cpp",
+              "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Circle\\Circle.cpp",
+              "RelativeDocumentMoniker": "Circle\\Circle.cpp",
+              "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\Circle\\Circle.cpp",
+              "RelativeToolTip": "Circle\\Circle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-24T04:26:56.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ex5-9.cpp",
               "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\ex5-9\\ex5-9.cpp",
               "RelativeDocumentMoniker": "ex5-9\\ex5-9.cpp",
@@ -43,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ex5-5.cpp",
               "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\ex5-5\\ex5-5.cpp",
               "RelativeDocumentMoniker": "ex5-5\\ex5-5.cpp",
@@ -51,12 +119,11 @@
               "RelativeToolTip": "ex5-5\\ex5-5.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-23T14:45:37.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T14:45:37.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ex5-4.cpp",
               "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\ex5-4\\ex5-4.cpp",
               "RelativeDocumentMoniker": "ex5-4\\ex5-4.cpp",
@@ -69,13 +136,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ex5-1.cpp",
               "DocumentMoniker": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\ex5-1\\ex5-1.cpp",
               "RelativeDocumentMoniker": "ex5-1\\ex5-1.cpp",
               "ToolTip": "C:\\Users\\skdbs\\Desktop\\C\u002B\u002B\\section05\\ex5-1\\ex5-1.cpp",
               "RelativeToolTip": "ex5-1\\ex5-1.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-23T14:45:30.204Z",
               "EditorCaption": ""
